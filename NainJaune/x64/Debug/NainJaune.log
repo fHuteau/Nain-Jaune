@@ -1,0 +1,3 @@
+﻿  Plateau.cpp
+C:\Users\hutea\Documents\ProjetC++\NainJaune\NainJaune\Plateau.cpp(327): warning C4715: 'Plateau::totalCaseJeton' : les chemins de contrôle ne retournent pas tous une valeur
+  NainJaune.vcxproj -> C:\Users\hutea\Documents\ProjetC++\NainJaune\x64\Debug\NainJaune.exe

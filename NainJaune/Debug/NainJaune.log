@@ -1,0 +1,8 @@
+﻿  Carte.cpp
+  Jeton.cpp
+  Joueur.cpp
+  NainJaune.cpp
+  PaquetCarte.cpp
+C:\Users\hutea\Documents\ProjetC++\NainJaune\NainJaune\PaquetCarte.cpp(47,16): warning C4018: '<' : incompatibilité signed/unsigned
+  Génération de code en cours...
+  NainJaune.vcxproj -> C:\Users\hutea\Documents\ProjetC++\NainJaune\Debug\NainJaune.exe
